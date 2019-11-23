@@ -1,0 +1,24 @@
+﻿Build started 2/11/2017 2:39:02 PM.
+     1>Project "C:\Users\HafizHamza\documents\visual studio 2010\Projects\first project\first project\first project.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\first project.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "first project.cpp"
+         first project.cpp
+     1>c:\users\hafizhamza\documents\visual studio 2010\projects\first project\first project\first project.cpp(11): error C2146: syntax error : missing ';' before identifier 'of'
+     1>c:\users\hafizhamza\documents\visual studio 2010\projects\first project\first project\first project.cpp(11): error C2065: 'of' : undeclared identifier
+     1>c:\users\hafizhamza\documents\visual studio 2010\projects\first project\first project\first project.cpp(11): error C2146: syntax error : missing ';' before identifier 'number'
+     1>c:\users\hafizhamza\documents\visual studio 2010\projects\first project\first project\first project.cpp(11): error C2065: 'number' : undeclared identifier
+     1>c:\users\hafizhamza\documents\visual studio 2010\projects\first project\first project\first project.cpp(12): error C2146: syntax error : missing ';' before identifier 'of'
+     1>c:\users\hafizhamza\documents\visual studio 2010\projects\first project\first project\first project.cpp(12): error C2065: 'of' : undeclared identifier
+     1>c:\users\hafizhamza\documents\visual studio 2010\projects\first project\first project\first project.cpp(12): error C2146: syntax error : missing ';' before identifier 'number'
+     1>c:\users\hafizhamza\documents\visual studio 2010\projects\first project\first project\first project.cpp(12): error C2065: 'number' : undeclared identifier
+     1>c:\users\hafizhamza\documents\visual studio 2010\projects\first project\first project\first project.cpp(13): error C2146: syntax error : missing ';' before identifier 'of'
+     1>c:\users\hafizhamza\documents\visual studio 2010\projects\first project\first project\first project.cpp(13): error C2065: 'of' : undeclared identifier
+     1>c:\users\hafizhamza\documents\visual studio 2010\projects\first project\first project\first project.cpp(13): error C2146: syntax error : missing ';' before identifier 'number'
+     1>c:\users\hafizhamza\documents\visual studio 2010\projects\first project\first project\first project.cpp(13): error C2065: 'number' : undeclared identifier
+     1>Done Building Project "C:\Users\HafizHamza\documents\visual studio 2010\Projects\first project\first project\first project.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.33
